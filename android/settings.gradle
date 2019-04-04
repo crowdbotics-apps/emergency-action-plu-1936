@@ -1,0 +1,3 @@
+rootProject.name = 'emergency_action_plu_1936'
+
+include ':app'
